@@ -1,0 +1,39 @@
+
+
+### Short Description:
+A real-time, multi-product, multi-website competitor price monitoring application built using the TinyFish Web Agent Automation API. It automates Amazon, Flipkart, and Reliance Digital to extract live prices and ratings for top consumer products and presents a clean comparison report.
+
+### Problem:
+E-commerce sellers and product teams waste hours manually checking competitor prices daily. Traditional scrapers break frequently due to dynamic UIs, pop-ups, authentication flows, and anti-bot systems.
+
+### Solution:
+An autonomous TinyFish-powered agent that:
+- Navigates 3 real e-commerce websites
+- Searches 3 high-demand products
+- Extracts title/price/rating
+- Combines results
+- Prints human-readable comparison
+- Identifies cheapest seller for each product
+
+### Why TinyFish:
+TinyFish provides serverless browsers, anti-bot stealth, natural-language goal execution, and real-time streaming — perfect for dynamic e-commerce sites.
+
+### Tech Stack:
+- TinyFish Web Agent Automation API
+- Bash + cURL
+- jq for JSON parsing
+- Azure Linux VM
+
+### Real Business Value:
+- Competitor intelligence
+- Price monitoring
+- E-commerce operations automation
+- Can run daily/hourly
+- Could scale into a SaaS tool
+
+### Video Link:
+(Insert Twitter link)
+
+### GitHub Repository:
+(Insert GitHub link)
+
