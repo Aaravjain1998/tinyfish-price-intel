@@ -1,0 +1,11 @@
+Submitting my project for the TinyFish $2M Pre-Accelerator Hackathon!
+
+I built an autonomous Competitor Price Intelligence Agent using the TinyFish Web Agent API.
+
+✅ Amazon Automation
+✅ Flipkart Automation
+✅ Reliance Digital Automation
+✅ Multi-step product search & extraction
+✅ Clean price-comparison output
+
+#TinyFishHackathon @Tiny_fish
