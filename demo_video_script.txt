@@ -1,0 +1,20 @@
+Hello, this is my submission for the TinyFish Pre-Accelerator Hackathon.
+
+I built an autonomous Competitor Price Intelligence Agent that uses the TinyFish Web Agent API to compare prices for three popular products across Amazon, Flipkart, and Reliance Digital.
+
+This application performs real multi-step workflows:
+- Navigates each website
+- Searches products
+- Opens the top result
+- Extracts price, rating, and title
+- Combines everything into a comparison table
+
+Let me run the application now.
+
+[Run: ./price_monitor.sh]
+
+As you can see, the TinyFish agents are performing real browser actions on live websites, extracting real-time data, and streaming results.
+
+Here is the final comparison output with the cheapest seller highlighted.
+
+Thank you!
